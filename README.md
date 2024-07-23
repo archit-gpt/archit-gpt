@@ -59,10 +59,4 @@ I am passionate about software development and machine learning, currently divin
 - [Twitter](https://twitter.com/archit-gupta)
 - [Email](mailto:archit@ucsb.edu)
 
-## GitHub Stats
-
-![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=archit-gpt&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archit-gpt&layout=compact&theme=radical)
-
 Thank you for visiting my profile! 😊
